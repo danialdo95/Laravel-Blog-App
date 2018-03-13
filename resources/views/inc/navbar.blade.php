@@ -1,3 +1,4 @@
+<link href="sticky-footer-navbar.css" rel="stylesheet">
 <header>
         <!-- Fixed navbar -->
         <nav class="navbar navbar-expand-md navbar-dark bg-dark">
